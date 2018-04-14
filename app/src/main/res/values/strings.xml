@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoffeMarket</string>
+    <string name="coffe_market_logo">Coffe market logo</string>
+    <array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </array>
+</resources>
